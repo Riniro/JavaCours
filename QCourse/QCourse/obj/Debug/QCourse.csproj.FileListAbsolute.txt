@@ -1,0 +1,7 @@
+C:\Users\skubi\source\repos\QCourse\QCourse\bin\Debug\QCourse.exe.config
+C:\Users\skubi\source\repos\QCourse\QCourse\bin\Debug\QCourse.exe
+C:\Users\skubi\source\repos\QCourse\QCourse\bin\Debug\QCourse.pdb
+C:\Users\skubi\source\repos\QCourse\QCourse\obj\Debug\QCourse.csprojAssemblyReference.cache
+C:\Users\skubi\source\repos\QCourse\QCourse\obj\Debug\QCourse.csproj.CoreCompileInputs.cache
+C:\Users\skubi\source\repos\QCourse\QCourse\obj\Debug\QCourse.exe
+C:\Users\skubi\source\repos\QCourse\QCourse\obj\Debug\QCourse.pdb
